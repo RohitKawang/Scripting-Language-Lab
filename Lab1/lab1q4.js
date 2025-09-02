@@ -1,0 +1,1 @@
+document.writeln("This message is from an external JavaScript file!");
